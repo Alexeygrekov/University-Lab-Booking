@@ -17,7 +17,7 @@ Home page to login
 ![Home page](images/home.png)
 
 Account creation
-![Create account](create_account.png)
+![Create account](images/create_account.png)
 
 Student view
 ![Student view](images/student.png)
