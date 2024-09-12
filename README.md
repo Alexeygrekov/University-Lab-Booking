@@ -1,4 +1,4 @@
-# University Equipment Booking
+# University Lab Booking
 
 ## Group Members 
 
